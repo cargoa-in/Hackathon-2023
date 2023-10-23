@@ -1,0 +1,10 @@
+.main {
+    background-color:aliceblue;
+    height: 80vh;
+    align-items: center;
+    margin: 4rem auto;
+}
+.login-btn:hover {
+    background-color: white;
+    color: black;
+}
