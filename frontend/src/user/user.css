@@ -1,0 +1,14 @@
+.form-div{
+    background-color: aliceblue;
+    width: max-content;
+    padding: 2em;
+    margin: 2rem;
+}
+.no-btn {
+    background-color: rgb(243, 243, 243);
+    width: max-content;
+}
+.no-btn:hover {
+    color: white;
+    background-color: rgb(76, 76, 76);
+}
